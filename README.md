@@ -31,7 +31,7 @@ Examples on training set:
 
 ## Apply Virtual Make-up:
 
-lipstick:
+apply lipstick step by step:
 <p align="center">
   <img src="https://github.com/Turkeywobbling/Face-alignment/assets/105172948/23b07170-c918-47f9-82d5-60abf27bb58f.png">
   <img src="https://github.com/Turkeywobbling/Face-alignment/assets/105172948/4e6cf05a-68bc-42b4-b6d5-700bf377e82e.png">
