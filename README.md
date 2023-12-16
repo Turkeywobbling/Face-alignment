@@ -12,7 +12,7 @@ The Template:
   <img src="https://github.com/Turkeywobbling/Face-alignment/assets/105172948/f290a3bd-34be-4901-a108-f9195b4acdd9.png" alt="Graph Description">
 </p>
 
-In training set, there 2811 images (faces) with size (244, 244), each image come with 42 facial feature points and testing set on has the images without facial feature points.
+In training set, there are 2811 images (faces) with size (244, 244), each image comes with 42 facial feature points and testing set only has the images without facial feature points.
 The goal is to predict the facial feature points of test set by the model trained on training set.
 
 Examples on training set:
