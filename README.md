@@ -13,7 +13,7 @@ The Template:
 </p>
 
 In training set, there 2811 images (faces) with size (244, 244), each image come with 42 facial feature points and testing set on has the images without facial feature points.
-The goal is the predict the facial feature points of test set by the model trained on training set.
+The goal is to predict the facial feature points of test set by the model trained on training set.
 
 Examples on training set:
 <p align="center">
